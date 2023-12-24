@@ -1,5 +1,5 @@
 {
-  "name": "misfit",
+  "name": "oden-misfit",
   "version": "1.0.0",
   "description": "Gmail spider",
   "main": "server.js",
